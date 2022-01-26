@@ -27,11 +27,11 @@ _2003 – 2008_
 
 _July 2013 – July 2018_	
 - Registrar (Doctor) – Radiation and Medical Oncology
-- In this position, I performed a senior role in both inpatient and outpatient services. Responsibilities included but were not limited to radiotherapy treatment planning (Deep Inspiration 				Breath Holding Technique, 4D Radiotherapy, External Beam 				Radiotherapy, Brachytherapy), radionuclide administration 				and palliative treatment. 
+- In this position, I performed a senior role in both inpatient and outpatient services. Responsibilities included but were not limited to radiotherapy treatment planning (Deep Inspiration Breath Holding Technique, 4D Radiotherapy, External Beam Radiotherapy, Brachytherapy), radionuclide administration and palliative treatment. 
 
 _Jan 2010 – July 2013_	
 - Senior House Officer (Doctor) – Radiation Oncology, Surgical
-- Performed in an intermediate position within the clinical team for both inpatient and outpatient services. Responsibilities also included assistance in major theatre, endoscopy suite and 				minor theatre.
+- Performed in an intermediate position within the clinical team for both inpatient and outpatient services. Responsibilities also included assistance in major theatre, endoscopy suite and minor theatre.
 
 _Jan 2009 – Jan 2010_	
 - Intern (Doctor) – General Medicine, Surgical
@@ -46,8 +46,7 @@ _2021 James Taylor Fellowship_
 _2020 Science Foundation Ireland, Centre for Research Training_		
 - Recruited into the second cohort of the PhD programme for Genomics Data Science
 		
-_2003_
-1.Majlis Amanah Rakyat Scholarship
+_2003 Majlis Amanah Rakyat Scholarship_
 - Awarded to pursue a Medical Degree at National University of Ireland Galway
 
 
