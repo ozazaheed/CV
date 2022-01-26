@@ -108,13 +108,13 @@ Phase II Single-arm Study evaluating Neo-adjuvant (pre-radical radiotherapy) Abi
 
 ### References :
 
-1. Dr Kellie Dean				
+**1. Dr Kellie Dean**				
 - School of Biochemistry and Cell Biology
 - 3.91 Western Gateway Building, Western Road
 - University College Cork 
 - Cork, Ireland T12 XF62
 
-2. Pasha Baranov			
+**2. Pasha Baranov**			
 - Professor of Biomolecular Informatics, MRIA
 - SFI-HRB-Wellcome Trust Investigator
 - School of Biochemistry and Cell Biology
