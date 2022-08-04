@@ -52,7 +52,7 @@ _2003 Majlis Amanah Rakyat Scholarship_
 
 ### Publications :
 
-1. **Zaheed O**, Kiniry SJ, Baranov PV and Dean K (2021). Exploring Evidence of Non-coding RNA Translation With Trips-Viz and GWIPS-Viz Browsers. Front. Cell Dev. Biol. 9:703374. doi: 10.3389/fcell.2021.703374
+1. **Zaheed O**, Kiniry SJ, Baranov PV and Dean K (2021). Exploring Evidence of Non-coding RNA Translation With Trips-Viz and GWIPS-Viz Browsers. Front. Cell Dev. Biol. 9:703374. https://doi: 10.3389/fcell.2021.703374
 
 2. Samson J, Derlipanska M, **Zaheed O** et al. BMC Cancer 21, 790 (2021). Molecular and cellular characterization of two patient-derived ductal carcinoma in situ (DCIS) cell lines, ETCC-006 and ETCC-010. https://doi.org/10.1186/s12885-021-08511-2
 
