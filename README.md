@@ -1,11 +1,12 @@
-## Oza Zaheed Maheswaran
+# Oza Zaheed Maheswaran
 
 Address : Cork
 
 Nationality : Irish
 
+****
 
-### Education :
+## Education :
 
 _2021 - Current_	
 - PhD Candidate 2nd Year
@@ -22,8 +23,9 @@ _2003 – 2008_
 - Bachelor of Medicine & Bachelor of Surgery & Bachelor of Obstetrics
 - National University of Ireland Galway, Ireland
 
+****
 
-### Previous Employment History :
+## Previous Employment History :
 
 _July 2013 – July 2018_	
 - Registrar (Doctor) – Radiation and Medical Oncology
@@ -37,8 +39,10 @@ _Jan 2009 – Jan 2010_
 - Intern (Doctor) – General Medicine, Surgical
 - Junior role in the clinical team. Responsibilities primarily involved inpatient services. Involved in outpatient clinics for 				outpatient services. 
 
+****
 
-### Awards :
+
+## Awards :
 
 _2021 James Taylor Fellowship_ 
 - Awarded to attend the Galaxy Community Conference and Training Week 
@@ -49,8 +53,9 @@ _2020 Science Foundation Ireland, Centre for Research Training_
 _2003 Majlis Amanah Rakyat Scholarship_
 - Awarded to pursue a Medical Degree at National University of Ireland Galway
 
+****
 
-### Publications :
+## Publications :
 
 1. **Zaheed O**, Kiniry SJ, Baranov PV and Dean K (2021). Exploring Evidence of Non-coding RNA Translation With Trips-Viz and GWIPS-Viz Browsers. Front. Cell Dev. Biol. 9:703374. https://doi: 10.3389/fcell.2021.703374
 
@@ -58,8 +63,9 @@ _2003 Majlis Amanah Rakyat Scholarship_
 
 3. **Zaheed O**, Samson J, Dean K (2020). A bioinformatics approach to identify novel long, non-coding RNAs in breast cancer cell lines from an existing RNA-sequencing dataset. Non-coding RNA Research, Volume 5, Issue 2, 2020, Pages 48-59, ISSN 2468-0540. https://doi.org/10.1016/j.ncrna.2020.02.004
 
+****
 
-### Presentations :
+## Presentations :
 
 _2016 Annual Scientific Meeting (Radiation Oncology)_
 - “Factors influencing psychological adjustments in patients with a diagnosis of Ductal Carcinoma in Situ (DCIS)”
@@ -67,8 +73,9 @@ _2016 Annual Scientific Meeting (Radiation Oncology)_
 _2014 Irish Society of Medical Oncology National Travel Bursaries_ 
 - “Risk of Pathological Fractures in Solitary Bone Plasmacytoma : Illustrated Case Report”
 
+****
 
-### Posters :
+## Posters :
 
 _2019 New Horizons Research Conference_ 
 - “Bioinformatics Analysis of Breast Cancer Cell Line RNA Sequencing Data to Assess Expression of Long Non-Coding Transcripts”
@@ -79,8 +86,9 @@ _2015 Annual Scientific Meeting (Radiation Oncology)_
 _2014 Annual Scientific Meeting (Radiation Oncology)_ 
 - “Prostate Biopsy : The Transperineal Approach”
 
+****
 
-### Trials :
+## Trials :
 
 _Role : Sub-Investigator_
 
@@ -99,13 +107,15 @@ Phase II Single-arm Study evaluating Neo-adjuvant (pre-radical radiotherapy) Abi
 
 7. Phase II randomized double blinded placebo controlled trial of radium 223 dichloride vs. placebo when administered to metastatic HER2 negative hormone receptor positive breast cancer subjects with bone metastases treated with hormonal treatment background therapy. BAY 88-8223/16298
 
+****
 
-### Professional Society Membership :
+## Professional Society Membership :
 
 - Member of the European Association for Cancer Research (EACR)
 
+****
 
-### References :
+## References :
 
 **1. Dr Kellie Dean**				
 - School of Biochemistry and Cell Biology
@@ -113,7 +123,7 @@ Phase II Single-arm Study evaluating Neo-adjuvant (pre-radical radiotherapy) Abi
 - University College Cork 
 - Cork, Ireland T12 XF62
 
-**2. Pasha Baranov**			
+**2. Prof Pasha Baranov**			
 - Professor of Biomolecular Informatics, MRIA
 - SFI-HRB-Wellcome Trust Investigator
 - School of Biochemistry and Cell Biology
